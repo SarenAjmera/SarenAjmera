@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### Myself [Saren Ajmera](github.com/SarenAjmera), an Undergraduate student in Chemical Engineering Department at IIT Kanpur
+#### Myself [Saren Ajmera](https://www.linkedin.com/in/saren-ajmera-833b60207), an Undergraduate student in Chemical Engineering Department at IIT Kanpur
 
 - 🌱I’m currently exploring **Competitive Programming** and learnig **Machine Learning**.....
 - 💜 loves music ❤ and playing Badminton.......
