@@ -5,8 +5,8 @@
 
 - 🌱I’m currently exploring **Competitive Programming** and learnig **Machine Learning**.....
 - 💜 loves music ❤ and playing Badminton.......
-- 📫 How to reach me: kiranajmera1974@gmail.com:email: sajmera20@iitk.ac.in:e-mail:
-- ⚡ Fun fact: Online semester sucks :slightly_smiling_face:
+- 📫 How to reach me: sarenajmera26@gmail.com:email: sajmera20@iitk.ac.in:e-mail:
+- ⚡ Fun fact: Online semester sucks ::
 #### Languages and Tools
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
